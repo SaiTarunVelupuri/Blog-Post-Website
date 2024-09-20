@@ -26,3 +26,4 @@ This is a Django-based blog post website where users can create, edit, and publi
 1. Clone this repository:
    ```bash
    git clone https://github.com/SaiTarunVelupuri/Blog-Post-Website.git
+Go to https://saitarunvelupuri.pythonanywhere.com/
